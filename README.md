@@ -1,2 +1,3 @@
-# delete-twitter-likes-console
-Delete Twitter likes / unlike from browser console
+# Delete Twitter likes
+
+Use the browser console to unlike Twitters / delete likes.
